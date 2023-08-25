@@ -1,1 +1,11 @@
-/Users/phillipkingo/.gitconfig
+[alias]
+	now = !git add . && git commit -m 'commit 🐒' && git push
+	s = status
+	c = checkout
+[push]
+	autoSetupRemote = true
+[user]
+	name = Philip Kingo
+	email = philipandreasking@hotmail.com
+[pull]
+	ff = only
