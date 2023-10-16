@@ -49,5 +49,5 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 alias air='~/go/bin/air' 
 
 # Message
-echo "Hallo Philip 👋"
+echo "Hallo $USER 👋"
 echo "Everything loaded up 📦"
